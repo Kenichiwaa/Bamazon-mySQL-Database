@@ -1,0 +1,1 @@
+SELECT * FROM Bamazon_db.products;
